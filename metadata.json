@@ -1,0 +1,5 @@
+{
+  "name": "Our Week Planner",
+  "description": "A comprehensive planner to organize tasks, track progress, and visualize performance. Built with React, TypeScript, and Firebase, it offers a seamless experience with features like add, edit, delete, and undo delete, all synced across devices.",
+  "requestFramePermissions": []
+}
